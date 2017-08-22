@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-         class Program
+        class Program
     {
         static void Main(string[] args) {
-            Console.WriteLine("Success!");
+            Console.WriteLine(    "Success!");
             Console.ReadLine();
         }
     }
